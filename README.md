@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>
 <img src="https://paulinhomonteiro.com/demo/images/logo.png" width="200">     
  </h2> 
