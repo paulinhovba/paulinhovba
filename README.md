@@ -10,7 +10,7 @@
 const WhoAmI = {
   user: "Paulinho Monteiro",
   role: "fullStack",
-  portfolio: "www.paulinhomonteiro.com",
+  about: "www.paulinhomonteiro.com/curriculo",
   hobbies: [
    "Studying",
    "Playing Guitar",
