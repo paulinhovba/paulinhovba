@@ -69,4 +69,4 @@ And loading...
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=paulinhovba&color=ff69b4&style=flat&label=visitors)
+![](https://komarev.com/ghpvc/?username=paulinhovba&color=green&style=plastic&label=visitors)
