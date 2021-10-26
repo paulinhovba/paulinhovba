@@ -11,7 +11,7 @@ const WhoAmI = {
   hobbies: [
    "Studying",
    "Playing Guitar",
-   "More Studying"],
+   "Studying More"],
    challenge: "Grow up ever and ever..."
 }
 	
