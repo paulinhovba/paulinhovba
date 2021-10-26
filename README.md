@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+```html
 <div class="center">
 			<svg width="102.8mm" height="10.5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 			viewBox="0 0 10280 1050">
@@ -35,7 +36,7 @@
 	</svg>			
 
 </div><!--center-->
-
+```
 <h2>
 <img src="https://paulinhomonteiro.com/demo/images/logo.png" width="200">     
  </h2> 
