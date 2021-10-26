@@ -31,7 +31,7 @@ function Ambitions() {
 <img width="100%" src="https://miro.medium.com/max/1276/1*rmalZkfRK8jeC5s7yf6spQ.gif">
 <br>
 
-<p>🆙 I'm currently a senior web development, active on the backend and frontend technologies. </p>
+<p>🆙 I'm a senior analyst/developer, active on the backend and frontend technologies. </p>
 <p>👨‍💻 All of my projects are available <a href="https://github.com/paulinhovba">🔗 here.</a></p>
 
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
